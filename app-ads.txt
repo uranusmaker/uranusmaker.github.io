@@ -10,5 +10,3 @@ facebook.com, [မင်းရဲ့_PROPERTY_ID_ဒီမှာထည့်], D
 # AppLovin (အကောင့်ကျလာရင် Account ID ကို ဒီမှာထည့်ပါ)
 applovin.com, [မင်းရဲ့_ACCOUNT_ID_ဒီမှာထည့်], DIRECT
 
-# Liftoff (Vungle)
-vungle.com, [မင်းရဲ့_ACCOUNT_ID_ဒီမှာထည့်], DIRECT
