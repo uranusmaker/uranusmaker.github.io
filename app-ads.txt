@@ -1,1 +1,14 @@
+# AdMob (Verified)
 google.com, pub-6025564295873222, DIRECT, f08c47fec0942fa0
+
+# Unity Ads (Verified)
+unity3d.com, 6036593, DIRECT
+
+# Meta Audience Network (မနက်ဖြန် Property ID ရရင် ပြန်ဖြည့်ပါ)
+facebook.com, [မင်းရဲ့_PROPERTY_ID_ဒီမှာထည့်], DIRECT
+
+# AppLovin (အကောင့်ကျလာရင် Account ID ကို ဒီမှာထည့်ပါ)
+applovin.com, [မင်းရဲ့_ACCOUNT_ID_ဒီမှာထည့်], DIRECT
+
+# Liftoff (Vungle)
+vungle.com, [မင်းရဲ့_ACCOUNT_ID_ဒီမှာထည့်], DIRECT
