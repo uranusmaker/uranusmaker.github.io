@@ -6,6 +6,7 @@ unity.com, 8924937, DIRECT, 96cabb5fbdde37a7
 
 # Unity Ads Sub-networks & Authorized Sellers
 adagio.io, 1522, RESELLER
+adagio.io, 1575, RESELLER
 admanmedia.com, 2242, RESELLER
 adyoulike.com, aff404dd1a704f379acae5190701c9c2, RESELLER
 adyoulike.com, f78b24039641337f06634ab9a3da4b48, RESELLER
@@ -152,4 +153,4 @@ xandr.com, 15840, RESELLER
 xandr.com, 17779, RESELLER
 zetaglobal.net, 630, RESELLER
 zmaticoo.com, 5135195, RESELLER
-adagio.io, 1575, RESELLER
+
