@@ -147,10 +147,3 @@ xandr.com, 15840, RESELLER
 xandr.com, 17779, RESELLER
 zetaglobal.net, 630, RESELLER
 zmaticoo.com, 5135195, RESELLER
-
-# Meta Audience Network (မနက်ဖြန် Property ID ရရင် ပြန်ဖြည့်ပါ)
-facebook.com, [မင်းရဲ့_PROPERTY_ID_ဒီမှာထည့်], DIRECT
-
-# AppLovin (အကောင့်ကျလာရင် Account ID ကို ဒီမှာထည့်ပါ)
-applovin.com, [မင်းရဲ့_ACCOUNT_ID_ဒီမှာထည့်], DIRECT
-
