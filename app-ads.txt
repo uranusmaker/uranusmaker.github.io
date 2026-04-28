@@ -1,8 +1,8 @@
-# AdMob (Verified)
-google.com, pub-6025564295873222, DIRECT, f08c47fec0942fa0
+# AdMob (အတည်ပြုပြီး)
+google.com, pub-6025564295873222, RESELLER, f08c47fec0942fa0
 
-# Unity Ads (Verified)
-unity3d.com, 6036593, DIRECT
+# Unity Ads (အတည်ပြုပြီး)
+unity.com, 8924937, DIRECT, 96cabb5fbdde37a7
 
 # Meta Audience Network (မနက်ဖြန် Property ID ရရင် ပြန်ဖြည့်ပါ)
 facebook.com, [မင်းရဲ့_PROPERTY_ID_ဒီမှာထည့်], DIRECT
