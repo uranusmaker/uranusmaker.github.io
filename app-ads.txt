@@ -160,8 +160,8 @@ vungle.com, 69f1e3027dbb2c94758f16eb, DIRECT, c107d686becd2d77
 # Liftoff Authorized Resellers
 33across.com, 001Pg0000197KcKIAU, RESELLER, bbea06d9c4d2853c
 contextweb.com, 562852, RESELLER, 89ff185a4c4e857c
-media.net, 8CU12AQ1Y, RESELLER
-media.net, 8CU9B72O6, RESELLER
+media.net, 8cu12aq1y8CU12AQ1Y, RESELLER
+media.net, 8cu9b72o68CU9B72O6, RESELLER
 acexchange.co.kr, 1317287336, RESELLER
 adagio.io, 1522, RESELLER
 adform.com, 2671, RESELLER
@@ -405,13 +405,13 @@ sharethrough.com, 4762, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 4811, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 5026, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 6qlnf8SY, RESELLER, d53b998a7bd4ecd2
-sharethrough.com, Bc6D1WHS, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, bc6d1whsBc6D1WHS, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, DQQogebZ, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, NIRSC9f2, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, UbYLkrys, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, XeKuhSkz, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, ZqrIAHsE, RESELLER, d53b998a7bd4ecd2
-sharethrough.com, bXzzb1bR, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, bxzzb1brbXzzb1bR, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, wRgOcZeV, RESELLER, d53b998a7bd4ecd2
 showheroes.com, 6031, RESELLER
 showheroes.com, 6037, RESELLER
@@ -481,7 +481,7 @@ video.unrulymedia.com, 146647607, RESELLER
 video.unrulymedia.com, 169764768, RESELLER
 video.unrulymedia.com, 2099898025, RESELLER
 video.unrulymedia.com, 2613193077, RESELLER
-video.unrulymedia.com, 290726769, RESELLER
+video.unrulymedia.com, 209726769, RESELLER
 video.unrulymedia.com, 3634565696, RESELLER, 6f752381ad5ec0e5
 video.unrulymedia.com, 3704396951, RESELLER
 video.unrulymedia.com, 3881266972, RESELLER
